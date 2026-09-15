@@ -1,0 +1,6 @@
+{
+  "name": "Auer Panel Buzzer 84 dB",
+  "description": "ระบบสั่งซื้อและข้อมูลทางเทคนิค Auer Panel Buzzer 84 dB รองรับ 24VAC/DC และ 230VAC พร้อมฟีเจอร์ AI Text-to-Speech (gemini-3.1-flash-tts-preview) และระบบจำลองเสียง",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
